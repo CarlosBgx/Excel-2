@@ -1,39 +1,39 @@
-En el archivo Dashboard Zapatos.xlsx encontrará un dashboard, tablas dinámicas y una base de datos con las siguientes columnas:
+1. En el archivo Dashboard Zapatos.xlsx encontrará un dashboard, tablas dinámicas y una base de datos con las siguientes columnas:
  
-Fecha de Compra
+- Fecha de Compra
 
-Marca
+- Marca
 
-Precio de Venta real
+- Precio de Venta real
 
-Precio Sugerido
+- Precio Sugerido
 
-Fecha de Lanzamiento
+- Fecha de Lanzamiento
 
-Talla Zapato
+- Talla Zapato
 
-Region de Compra
+- Region de Compra
 
-% Diferencial
+- % Diferencial
 
-Marca2
+- Marca2
 
-Modelo
+- Modelo
 
-Color
+- Color
 
-Diferencial en Dlls
+- Diferencial en Dlls
 
-Usando estos datos, una paleta de colores de la web coloors e imágenes de freepik, se creó un dashboard enfocado en
+2. Usando estos datos, una paleta de colores de la web coloors e imágenes de freepik, se creó un dashboard enfocado en
 
-Tendencias de precios a lo largo del tiempo
+- Tendencias de precios a lo largo del tiempo
 
-Diferencia de precios de los modelos
+- Diferencia de precios de los modelos
 
-Porcentaje del diferencial de precios
+- Porcentaje del diferencial de precios
 
-Ventas por marca
+- Ventas por marca
 
-Porcentaje del diferencial por estado
+- Porcentaje del diferencial por estado
 
-Cada uno de estos está asociado a una tabla dinámica, puede consultarlas en la segunda hoja llamada "Gráficos" 
+3. Cada uno de estos está asociado a una tabla dinámica, puede consultarlas en la segunda hoja llamada "Gráficos" 
